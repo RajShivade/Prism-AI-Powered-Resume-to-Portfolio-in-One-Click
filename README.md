@@ -172,4 +172,9 @@ B.Tech Data Science | AI & Data Analytics Enthusiast
 
 ---
 
+## Output: 
+
+https://github.com/user-attachments/assets/a8cb7e28-db86-40cd-a790-8a35072eb923
+
+
 ✨ *Illuminate your professional identity with Prism.*
