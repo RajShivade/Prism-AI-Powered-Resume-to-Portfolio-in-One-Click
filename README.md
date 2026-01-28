@@ -19,12 +19,17 @@ Prism is an AI-powered web application that transforms traditional PDF resumes i
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML5, CSS3, JavaScript
-* **AI Model:** Google Gemini LLM
-* **Framework:** Streamlit (Python)
-* **PDF Processing:** PyPDF2
-* **Styling:** Custom CSS, Google Fonts
-* **Packaging:** Python ZIP utilities
+* **Python**
+
+* **Streamlit –** Web application framework
+
+* **Google Gemini LLM –** Resume understanding & content generation
+
+* **HTML5, CSS3, JavaScript –** Frontend output
+
+* **PyPDF2 –** PDF text extraction
+
+* **ZIP Automation –** Deployment‑ready packaging
 
 ---
 
