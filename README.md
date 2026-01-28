@@ -99,31 +99,6 @@ The website is now ready for deployment 🚀
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add screenshots here)*
-
-Suggested screenshots:
-
-* Home / Hero section UI
-* Resume upload & settings panel
-* Portfolio generation in progress
-* Downloaded ZIP structure
-* Sample generated portfolio preview
-
-Example:
-
-```text
-screenshots/
-├── ui-home.png
-├── resume-upload.png
-├── generation.png
-├── zip-download.png
-├── portfolio-preview.png
-```
-
----
-
 ## 🌍 Deployment
 
 You can deploy the generated portfolio using:
@@ -153,12 +128,6 @@ Prism bridges the gap between static resumes and modern digital presence by enab
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests.
@@ -168,6 +137,7 @@ Contributions are welcome! Feel free to fork this repository, open issues, or su
 ## 👨‍💻 Author
 
 **Raj Shivade**
+
 B.Tech Data Science | AI & Data Analytics Enthusiast
 
 ---
