@@ -1,4 +1,4 @@
-# 🌈 Prism – AI-Powered Resume to Portfolio in One Click :
+## 🌈 Prism – AI-Powered Resume to Portfolio in One Click:-
 
 Prism is an Agentic AI–powered web application that converts a traditional PDF resume into a fully functional, responsive portfolio website in just one click. Built with Streamlit and powered by Google Gemini LLM, Prism generates a clean, modern, and deployment‑ready website package without requiring any frontend development skills.
 
